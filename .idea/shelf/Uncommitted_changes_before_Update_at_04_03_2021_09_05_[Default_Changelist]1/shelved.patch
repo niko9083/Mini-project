@@ -1,0 +1,10 @@
+Index: Classes.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Classes.py	(date 1614845134807)
++++ Classes.py	(date 1614845134807)
+@@ -0,0 +1,2 @@
++class dragNdrop:
++    def __init__(self):
